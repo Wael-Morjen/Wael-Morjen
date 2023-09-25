@@ -1,3 +1,6 @@
+
+![LinkedIn Banner](https://github.com/Wael-Morjen/Wael-Morjen/assets/95170051/f41401b1-9de6-48db-8f9a-7066bb8b2903)
+
 ### Hello! Welcome to my GitHub profile. I'm Wael Morjen, 
 
 a passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.

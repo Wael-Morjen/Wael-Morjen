@@ -17,6 +17,10 @@ a passionate and ambitious software engineering student with a focus on web deve
 
 🚀 Let's connect and embark on a journey of creating remarkable software solutions together!
 
+### GitHub Stats:
+
+![alt](![Wael-Morjen's Stats](https://github-readme-stats.vercel.app/api?username=Wael-Morjen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true))
+
 ## See More :
 
 - Give a visit to my [LinkedIn Profile](https://www.linkedin.com/in/wael-morjen/)

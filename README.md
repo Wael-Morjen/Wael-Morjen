@@ -3,9 +3,9 @@
 
 ### Hello! Welcome to my GitHub profile. I'm Wael Morjen, 
 
-a passionate and ambitious software engineering student with a focus on web development and a flair for creating intuitive and user-friendly applications.
+a passionate and ambitious Junior software engineer with a focus on web development and a flair for creating intuitive and user-friendly applications.
 
-💼 Currently, I am honing my skills as a Software Engineering student, specializing in cutting-edge technologies and frameworks. My primary expertise lies in the following technologies:
+💼 Currently, I am honing my skills as a Junior Software Engineer, specializing in cutting-edge technologies and frameworks. My primary expertise lies in the following technologies:
 
 🔧 JavaScript | TypeScript | React.js | Next.js | Node.js | MongoDB | MySQL | Prisma | Tailwindcss
 

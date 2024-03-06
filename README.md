@@ -20,6 +20,8 @@ a passionate and ambitious software engineering student with a focus on web deve
 ### GitHub Stats:
 
 ![Wael-Morjen's Stats](https://github-readme-stats.vercel.app/api?username=Wael-Morjen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Wael-Morjen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wael-Morjen&theme=vue-dark&hide_border=true)
+![Wael-Morjen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wael-Morjen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## See More :
 
